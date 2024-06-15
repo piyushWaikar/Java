@@ -1,0 +1,15 @@
+Types of operators : 
+
+1. Logical operators : && , || , ! . 
+
+2. Bitwise operators : &(Binary AND) , |(Binary OR) , ^(Binary XOR) , ~(Binary one compliment) , <<(left shift) , >>(right shift) .
+
+3. Assignment operators : = , +=, *= , -= , /= .
+
+5. Arithmetic operators = + , - , * , / , % .
+
+6. Pre increment & post increment operators = ++a & a++ .
+
+7. Pre decrement & post decrement operators = --a & a-- .
+
+8. Relational operators : == , != , > , < , >= , =< .
